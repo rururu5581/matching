@@ -1,0 +1,14 @@
+# Dependencies
+/node_modules
+
+# Local Environment Variables
+.env.local
+.env*.local
+
+# Production build folder
+.next/
+/out/
+
+# Other
+.DS_Store
+*.pem
